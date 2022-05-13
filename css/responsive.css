@@ -16,6 +16,14 @@
         width: 100%;
     }
 
+    .search-area{
+        flex-direction: column;
+    }
+
+
+    .news{
+        width: 90%;
+    }
 
 
 }

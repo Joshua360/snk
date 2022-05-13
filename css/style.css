@@ -91,8 +91,8 @@ li {
 }
 
 body{
-    background-image: url('img/one.jpeg');
-    background-repeat: repeat;
+    background-image: url('../img/two.jpeg');
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -279,5 +279,9 @@ button[type=submit] {
 }
 
 .divology{
+    display: flex;
+}
+
+.contact-area{
     display: flex;
 }
