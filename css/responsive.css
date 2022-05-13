@@ -16,8 +16,13 @@
         width: 100%;
     }
 
-    .search-area{
+    .contact-area{
         flex-direction: column;
+      
+    }
+
+    .contact-info{
+        margin-bottom: 50px;
     }
 
 
